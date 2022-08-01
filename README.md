@@ -41,3 +41,32 @@ django_oscar_invoices - Invoices or receipts generation for the Oscar
 ![IMG_20220801_205949](https://user-images.githubusercontent.com/92304590/182186722-8eefbc0b-904d-4a53-bb55-c49af43704b2.jpg)
 
 ![IMG_20220801_210000](https://user-images.githubusercontent.com/92304590/182186755-3ae984e1-24af-4720-8cb0-aba100815e1e.jpg)
+
+
+# License 
+
+Abhi100A/Shopping-website is licensed under the
+
+MIT License
+
+A short and simple permissive license with conditions only requiring preservation of copyright and license notices. Licensed works, modifications, and larger works may be distributed under different terms and without source code.
+
+Permissions
+
+ Commercial use
+
+ Modification
+
+ Distribution
+
+ Private use
+
+Limitations
+
+ Liability
+
+ Warranty
+
+Conditions
+
+ License and copyright notice 
