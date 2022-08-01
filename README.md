@@ -28,3 +28,5 @@ django_oscar_invoices - Invoices or receipts generation for the Oscar
 
 # Screenshots 
 
+![IMG_20220801_205936](https://user-images.githubusercontent.com/92304590/182186142-3e3f5a94-2de5-438f-994d-5bfa97f67aac.jpg)
+
